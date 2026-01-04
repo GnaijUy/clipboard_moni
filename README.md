@@ -1,7 +1,6 @@
 # 📋 Clipboard Monitor (剪贴板监控助手)
 
-[![Chinese](https://img.shields.io/badge/Language-中文-red)](README.md)
-[![English](https://img.shields.io/badge/Language-English-blue)](README_EN.md)
+[中文](README.md)|[English](README_EN.md)
 
 ![Version](https://img.shields.io/badge/version-1.1.1-blue) ![Language](https://img.shields.io/badge/language-AutoHotkey_v2-green) ![Platform](https://img.shields.io/badge/platform-Windows-0078D6)
 
